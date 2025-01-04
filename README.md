@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rohit Raj</h1>
 <h3 align="center">A Tech enthusiast,ISE student at BMSIT</h3>
-<img align="right" alt="Coding" width="400"src="https://github.com/0raghvendrasharma/0raghvendrasharma/blob/main/SHARMA%E2%80%99S%20CODING%20WORLD.gif">
+<img align="right" alt="Coding" width="400"src="https://raw.githubusercontent.com/imrohi8/imrohi8/refs/heads/main/Readme_img.webp">
 <br/>
 
 - 🔭 I’m currently working on: **React and Backend**
